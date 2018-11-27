@@ -72,7 +72,7 @@ const getItemStyle = (currentOffset, wasPieceTouched) => {
   let { x, y } = currentOffset;
   const transform = wasPieceTouched
     ? `translate(${x}px, ${y + -25}px) scale(2)`
-    : `translate(${x}px, ${y}px)`;
+    : '';
 
   return { transform };
 };
