@@ -66,6 +66,34 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "nilsga",
+      "name": "Nils-Helge Garli Hegvik",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/42919?v=4",
+      "profile": "http://www.lånekalkulatoren.no",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "levidurfee",
+      "name": "Levi Durfee",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10798199?v=4",
+      "profile": "https://levi.lol/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "altruisticsoftware",
+      "name": "Chris",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12105346?v=4",
+      "profile": "https://github.com/altruisticsoftware",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
